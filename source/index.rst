@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Vim Guide's documentation!
-=====================================
+Vim Guide - Guia sobre VIM
+==========================
 
-Contents:
+Conteúdo:
 
 .. toctree::
    :maxdepth: 2
 
 
 
-Indices and tables
-==================
+Indice e sumário
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
