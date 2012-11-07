@@ -19,4 +19,4 @@ Indice e sumário
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
+* :ref:`gettingstarted`
